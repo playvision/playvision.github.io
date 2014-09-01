@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -54,7 +54,6 @@ blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
-  font-style:italic;
 }
 
 code, pre {
@@ -160,9 +159,15 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:600px;
+  float:right;
   float:right;
   padding-bottom:50px;
+}
+
+section a strong{
+    text-decoration: underline;
+    color:#39c;
 }
 
 small {
