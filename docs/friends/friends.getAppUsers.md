@@ -11,7 +11,7 @@ title: friends.getAppUsers
 
 ###Пример запроса###
 
-> http://playvision.dev/api/v1/friends.getAppUsers?user_id=111&project_id=1
+> http://playvision.ru/api/v1/friends.getAppUsers?user_id=111&project_id=1
 
 ### Возвращаемые данные: ###
 <pre>

@@ -10,7 +10,7 @@ title: friends.get
 
 ###Пример запроса###
 
-> http://playvision.dev/api/v1/friends.get?user_id=100
+> http://playvision.ru/api/v1/friends.get?user_id=100
 
 ### Возвращаемые данные: ###
 <pre>

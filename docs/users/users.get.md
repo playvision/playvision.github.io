@@ -9,7 +9,7 @@ title: users.get
 
 ###Пример запроса###
 
-> http://playvision.dev/api/v1/users.get?user_ids=100
+> http://playvision.ru/api/v1/users.get?user_ids=100
 
 ### Возвращаемые данные параметры: ###
 <pre>

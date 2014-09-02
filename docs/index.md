@@ -28,6 +28,6 @@ title: Запросы к API
 </pre>
 К примеру при запросе на обновление уровня
 
-> http://playvision.dev/api/v1/secure.setUserLevel?project_id=1&user_id=131&level=16&time=1409581492&sig=81555196e23f9950c0d2780ce2274fc7
+> http://playvision.ru/api/v1/secure.setUserLevel?project_id=1&user_id=131&level=16&time=1409581492&sig=81555196e23f9950c0d2780ce2274fc7
 
 **sig** равен md5("level=16project_id=1time=1409581492user_id=131api_secret") то есть 81555196e23f9950c0d2780ce2274fc7

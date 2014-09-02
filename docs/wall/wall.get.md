@@ -9,7 +9,7 @@ title: wall.get
 
 ###Пример запроса###
 
-> http://playvision.dev/api/v1/wall.get?user_ids=100
+> http://playvision.ru/api/v1/wall.get?user_ids=100
 
 ### Возвращаемые данные: ###
 <pre>
