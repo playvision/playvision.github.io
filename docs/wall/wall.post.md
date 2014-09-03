@@ -12,4 +12,4 @@ title: wall.get
 
 ###Пример запроса###
 
-> http://playvision.ru/api/v1/wall.post?user_id=131&project_id=1&token=fe4e4e2b3087bf7e22c139f06408d33f
+> http://api.playvision.ru/v1/wall.post?user_id=131&project_id=1&token=fe4e4e2b3087bf7e22c139f06408d33f
