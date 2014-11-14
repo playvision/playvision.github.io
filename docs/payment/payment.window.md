@@ -1,15 +1,17 @@
 ---
-title: shop.window
+title: payment.window
 ---
 Показывает пользователю диалоговое окно магазина
 
 ### Принимаемые параметры: ###
 
 **user_id**: id пользователя которому будет показан диалог<br>
+**project_id**: id приложения<br>
+**item**: Наименование товара, которое будет отправлено в уведомлении get_item до 64 символов. Например: 'test_item' <br>
 **token** – токен пользователя, переданный в параметрах приложения (cм. [параметры приложения](/app))
 
 ###Пример запроса###
 
-> http://api.playvision.ru/v1/shop.window?user_id=100&token=68d4dd4dca288a7656b421135dca6ea4
+> http://api.playvision.ru/v1/payment.window?user_id=100&project_id=3&item=test_item&token=68d4dd4dca288a7656b421135dca6ea4
 
 [**<- Вернуться к основной документации**](/docs/payment/)
