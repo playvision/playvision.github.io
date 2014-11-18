@@ -45,6 +45,6 @@ title: Получение информации о товаре
 
 #### Пример ответа
 
-> {"item_price": 5, "item_id": 12, "item_title": 'test'}
+> {"item_price": "5", "item_id": "test_12", "item_title": "test"}
 
 [**<- Вернуться к основной документации**](/docs/payment/payment.step.html)
