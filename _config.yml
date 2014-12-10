@@ -51,6 +51,11 @@ defaults:
      path: "" # empty string for all files
    values:
      layout: "default"
+ -
+   scope:
+     path: "en"
+   values:
+     layout: "en" # overrides previous default layout
 
 # Markdown Processors
 maruku:
