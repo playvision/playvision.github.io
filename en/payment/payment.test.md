@@ -10,7 +10,7 @@ For payments in the test mode, add all users with test payments into a special l
 
 ![Test payments](/images/payment/testers.jpg "Test payments")
 
-In test mode, notification_type is added with "_test" suffix. Thus, notifications will be shown as '[get_item_test](/docs/payment/payment.get_item.html)', '[order_status_change_test](/docs/payment/payment.server.html)' respectively.
+In test mode, notification_type is added with "_test" suffix. Thus, notifications will be shown as '[get_item_test](/en/payment/payment.get_item.html)', '[order_status_change_test](/en/payment/payment.server.html)' respectively.
 
 And order IDs in the test mode — order_id parameters of notifications — can overlap with order IDs in standard mode.
 
