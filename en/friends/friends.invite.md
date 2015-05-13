@@ -8,7 +8,7 @@ After sending post-request to the address below, a modal window opens at client 
 **user_id**: id of user who will invites his friends<br>
 **project_id**: your project's ID<br>
 **token**: token of user that is send in iframe<br>
-**request_ids**: array of friends ids, which user wants to invite to the game
+**request_ids**: (optional) array of friends ids, which user wants to invite to the game
 
 ###Example###
 
