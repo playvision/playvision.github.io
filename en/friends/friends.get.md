@@ -10,7 +10,7 @@ This method provides a means to get information about a user's friends.
 
 ###Example request###
 
-> http://api.playvision.ru/v1/friends.get?user_id=100
+> http://{{domain}}/v1/friends.get?user_id=100
 
 ### Returned data: ###
 <pre>

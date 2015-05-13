@@ -9,7 +9,7 @@ Returns information about the requested users
 
 ###Example request###
 
-> http://api.playvision.ru/v1/users.get?user_ids=100
+> http://{{domain}}/v1/users.get?user_ids=100
 
 ### Returned data: ###
 <pre>

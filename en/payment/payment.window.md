@@ -12,6 +12,6 @@ Shows the store dialog window to the user
 
 ###Example request###
 
-> http://api.playvision.ru/v1/payment.window?user_id=100&project_id=3&item=test_item&token=68d4dd4dca288a7656b421135dca6ea4
+> http://{{domain}}/v1/payment.window?user_id=100&project_id=3&item=test_item&token=68d4dd4dca288a7656b421135dca6ea4
 
 [**<- Return to main documentation**](/en/payment)

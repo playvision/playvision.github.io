@@ -14,6 +14,6 @@ Shows the user a window for sending a notification to another user in his name.
 
 ###Example request###
 
-> http://api.playvision.ru/v1/request.window?user_id=100&project_id=1&token=fe4e4e2b3087bf7e22c139f06408d33f&request_user_id=119&request_key=some_string&message=test
+> http://{{domain}}/v1/request.window?user_id=100&project_id=1&token=fe4e4e2b3087bf7e22c139f06408d33f&request_user_id=119&request_key=some_string&message=test
 
 [**<- Return to main documentation**](/en/notification)
