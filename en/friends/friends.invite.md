@@ -24,6 +24,6 @@ If request_ids are specified, these users will automatically be added to the lis
 
 After that, selected friends will be notified, as in the screenshot below:
 
-![notify](/images/friends/invite.png "notify")
+![notify](/images/friends/notification.png "notify")
 
 When entering the game via invitation the option referrer_id will be sent to the iframe. This is the id of the user who sent the invitation. Checking referrer_id remains on the side of the game.
