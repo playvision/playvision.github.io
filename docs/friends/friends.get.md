@@ -10,7 +10,7 @@ title: friends.get
 
 ###Пример запроса###
 
-> http://{{domain}}/v1/friends.get?user_id=100
+> http://**domain**/v1/friends.get?user_id=100
 
 ### Возвращаемые данные: ###
 <pre>

@@ -12,7 +12,7 @@ After sending post-request to the address below, a modal window opens at client 
 
 ###Example###
 
-> http://{{domain}}/v1/friends.invite?user_id=100&project_id=3&token=3aa6fa7280fd879275c425f10bda9412&request_ids=101,102
+> http://**domain**/v1/friends.invite?user_id=100&project_id=3&token=3aa6fa7280fd879275c425f10bda9412&request_ids=101,102
 
 ###Result:###
 If request_ids are not specified, user will be able to choose from a list of friends, then click on the "Send" button. As shown in the screenshot below.

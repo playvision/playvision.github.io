@@ -11,7 +11,7 @@ This method provides a means to get information about a user's friends who have 
 
 ###Example request###
 
-> http://{{domain}}/v1/friends.getAppUsers?user_id=111&project_id=1
+> http://**domain**/v1/friends.getAppUsers?user_id=111&project_id=1
 
 ### Returned data ###
 <pre>

@@ -9,7 +9,7 @@ Returns a list of posts on the user's wall
 
 ###Example request###
 
-> http://{{domain}}/v1/wall.get?user_id=100
+> http://**domain**/v1/wall.get?user_id=100
 
 ### Returned data: ###
 <pre>

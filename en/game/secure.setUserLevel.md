@@ -14,7 +14,7 @@ Sets a user's level in the application
 
 ###Example request###
 
-> http://{{domain}}/v1/secure.setUserLevel?project_id=1&user_id=131&level=16&time=1409581492&sig=8955855380da9d1e3a9acf5a3cc1c9ce
+> http://**domain**/v1/secure.setUserLevel?project_id=1&user_id=131&level=16&time=1409581492&sig=8955855380da9d1e3a9acf5a3cc1c9ce
 
 ###Returned data:###
 If successful:

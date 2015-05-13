@@ -13,7 +13,7 @@ title: friends.invite
 
 ###Пример запроса###
 
-> http://{{domain}}/v1/friends.invite?user_id=100&project_id=3&token=3aa6fa7280fd879275c425f10bda9412&request_ids=101,102
+> http://**domain**/v1/friends.invite?user_id=100&project_id=3&token=3aa6fa7280fd879275c425f10bda9412&request_ids=101,102
 
 ###Итог:###
 Если request_ids не указаны, то пользователь сможет сам выбрать друзей из списка, а затем нажать на кнопку "Отправить". Как показано на скриншоте ниже.

@@ -9,7 +9,7 @@ title: users.get
 
 ###Пример запроса###
 
-> http://{{domain}}/v1/users.get?user_ids=100
+> http://**domain**/v1/users.get?user_ids=100
 
 ### Возвращаемые данные параметры: ###
 <pre>
