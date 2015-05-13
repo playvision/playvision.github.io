@@ -14,4 +14,4 @@ which unlocks expansive opportunities for creating all different kinds of games.
 Before you start work with API you should choose correct api domain to work with.
 
 1. If you're going to integrate your game with http://playvision.ru, then your domain would be api.playvision.ru (instead of **domain**)
-2. If you're going to integrate your game with http://playvis.com, then your domain would be api.playvi.com (instead of **domain**)
+2. If you're going to integrate your game with http://playvis.com, then your domain would be api.playvis.com (instead of **domain**)
