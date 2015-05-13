@@ -1,6 +1,10 @@
 ---
 title: API requests
 ---
+Before you start work with API you should choose correct api domain to work with.
+
+1. If you're going to integrate your game with http://playvision.ru, then your domain would be api.playvision.ru (instead of **domain**)
+2. If you're going to integrate your game with http://playvis.com, then your domain would be api.playvi.com (instead of **domain**)
 
 To call a Playvision API method, you must perform a POST or GET request to this URL:
 
