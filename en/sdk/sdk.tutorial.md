@@ -46,4 +46,4 @@ PLV.addCallback('game_window.hide', function(){
 </code></pre>
 
 
-[**<- Back**](/docs/sdk/)
+[**<- Back**](/en/sdk/)
