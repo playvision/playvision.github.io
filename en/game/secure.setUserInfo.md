@@ -5,7 +5,7 @@ Updates an user's data in the application
 
 ### Accepted parameters: ###
 
-**user_id**: the ID of the user to update the level of<br>
+**user_id**: user ID<br>
 **project_id**: your project's ID<br>
 **attribute**: attribute name<br>
 **value**: attribute value<br>
